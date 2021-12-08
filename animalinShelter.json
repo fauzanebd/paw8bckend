@@ -1,0 +1,45 @@
+
+[    
+    {
+        "name" : "tongky",
+        "species" : "maltese dog",
+        "age" : "10 years",
+        "adopted" : false
+    },
+
+    {
+        "name" : "popo",
+        "species" : "white bunny",
+        "age" : "5 months",
+        "adopted" : false
+    },
+
+    {
+        "name" : "kkotnim",
+        "species" : "jindo dog",
+        "age" : "8 months",
+        "adopted" : true
+    },
+
+    {
+        "name" : "phil",
+        "species" : "alaskan malamute dog",
+        "age" : "4 years",
+        "adopted" : true
+    },
+
+    {
+        "name" : "lightning",
+        "species" : "bulldog dog",
+        "age" : "5 months",
+        "adopted" : false
+    },
+
+    {
+        "name" : "rolo",
+        "species" : "domestic cat",
+        "age" : "11 years",
+        "adopted" : false
+    }
+]
+
